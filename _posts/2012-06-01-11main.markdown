@@ -4,4 +4,4 @@ title: Jun 2012 – Jun 2015
 subtitle:
 image: "img/timeline/alibaba.jpg"
 ---
-An Alibaba company, 11Main was a premium ecommerce marketplace. I managed a team of four globally distributed helpdesk technicians and got to fly over to China to work in Alibaba HQ. I learned a lot about the importance of communication in this role.
+An Alibaba company, 11 Main was a premium ecommerce marketplace. I managed a team of four globally distributed helpdesk technicians and got to fly over to China to work in Alibaba HQ. I learned a lot about the importance of communication in this role.

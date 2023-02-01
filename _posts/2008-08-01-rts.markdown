@@ -4,4 +4,4 @@ title: Aug 2008 – Jul 2009
 subtitle:
 image: "img/timeline/rts.jpeg"
 ---
-My first gig in LA was a computer repair and MSP shop that sent me onsite everywhere in LA. This paid the bills (barely) while I was getting settled in
+My first gig in LA was at RTS Solutions, a computer repair and MSP that sent me onsite all over LA and the surrounding areas. This paid the bills (barely) while I was getting my feet under me

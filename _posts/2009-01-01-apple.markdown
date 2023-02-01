@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Aug 2009 – Sept 2010
+title: Aug 2009 – Sep 2010
 subtitle:
 image: "img/timeline/aapl.jpeg"
 ---
-I worked behind the genius bar at Apple. I learned invaluable things about service, quality of culture and customer satisfaction while repairing devices and pulling overnights for iPhone launches with who are now considered lifelong friends
+I worked behind the Genius Bar at Apple. I gained invaluable knowledge regarding service, quality of culture and customer satisfaction. I also repaired devices and worked several overnights for product launches with people that'd grow to be lifelong friends

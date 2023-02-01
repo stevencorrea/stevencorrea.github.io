@@ -4,4 +4,4 @@ title: May 2011 – Mar 2012
 subtitle:
 image: "img/timeline/mahalo.png"
 ---
-I worked as a Sys Admin for Jason Calacanis' companies and podcasts. I got to rack equipment at One Wilshire, configure XOS switches and FreeBSD Servers. I also appeared on This week in Startups as a tech advisor
+I worked as a Sys Admin for Jason Calacanis' companies and podcasts. I got to rack equipment at One Wilshire, configure XOS switches and FreeBSD Servers. I also appeared on This week in Startups as a Tech Advisor

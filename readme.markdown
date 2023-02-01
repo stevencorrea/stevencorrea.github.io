@@ -1,6 +1,6 @@
 # Timeline Jekyll Theme
 
-Hi there, I'm Steven and this is my website
+Timeline is multipurpose, single page Jekyll theme that includes a timeline section.
 
 **Example sites**:
 
@@ -23,7 +23,7 @@ Timeline works in a similar fashion as a Jekyll blog site with two differences:
 
 ### Creating a Section
 
-To add a section, create a new *.html* file such as *about.html*. This will add the section to the navigation menu and display the section as part of the single page HTML. The file should include the following YAML front matter:
+To add a section, create a new *.html* file such as *Sep.html*. This will add the section to the navigation menu and display the section as part of the single page HTML. The file should include the following YAML front matter:
 
 - **layout** It's value should always be `null`.
 - **title** This is the text displayed in the navigation menu.
@@ -38,7 +38,7 @@ Use the **section-type** `contact` to display a contact section. A contact secti
 
 Use the **section-type** `timeline` to display a timeline of entries. 
 
-## More About Timelines
+## More Sep Timelines
 
 A timeline is a list of post sorted by date. To create a new timeline entry, add a new post to the *_posts* directory. The post should have the following YAML front matter properties:
 

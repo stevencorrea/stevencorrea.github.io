@@ -2,6 +2,6 @@
 layout: null
 title: 2012
 subtitle:
-image: "img/timeline/gps-pin.png"
+image: "img/timeline/gps-pin.jpeg"
 ---
 I moved from Los Angeles back to Chico to be closer to family

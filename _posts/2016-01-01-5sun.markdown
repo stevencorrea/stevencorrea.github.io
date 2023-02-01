@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Dec 2015 – Sept 2017
+title: Dec 2015 – Sep 2017
 subtitle:
 image: "img/timeline/5sun.png"
 ---
-As _the_ DevOps Specialist at Fifthsun, I was introduced to devops, cloud infrastructure and being oncall. I performed a migration of a LAMP stack to AWS, utilizing RDS, EC2 and set up monitoring and alerting
+As _the_ DevOps Specialist at Fifth Sun, I was introduced to devops, cloud infrastructure and being oncall. I performed a migration of a LAMP stack to AWS, utilizing RDS, EC2 and set up monitoring and alerting
