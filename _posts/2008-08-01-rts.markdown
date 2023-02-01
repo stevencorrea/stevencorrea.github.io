@@ -1,0 +1,7 @@
+---
+layout: null
+title: Aug 2008 – Jul 2009
+subtitle:
+image: "img/timeline/rts.jpeg"
+---
+My first gig in LA was a computer repair and MSP shop that sent me onsite everywhere in LA. This paid the bills (barely) while I was getting settled in

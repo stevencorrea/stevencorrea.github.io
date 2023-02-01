@@ -2,6 +2,6 @@
 layout: null
 title: 2012
 subtitle:
-image: "img/timeline/chico.jpg"
+image: "img/timeline/chico.png"
 ---
 I moved from Los Angeles back to Chico to be closer to family

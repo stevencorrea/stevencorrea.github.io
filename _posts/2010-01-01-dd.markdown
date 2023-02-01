@@ -1,0 +1,7 @@
+---
+layout: null
+title: Oct 2010 – May 2011
+subtitle:
+image: "img/timeline/dd.png"
+---
+I provisioned OS X and Debian based workstations for Digital Domain in Venice Beach. I worked out of the Binoculars Building and supported the making of TRON Legacy and Transformers: Revenge of the Fallen among others
