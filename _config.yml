@@ -1,0 +1,14 @@
+url: https://stevenacorrea.com
+baseurl: /timeline-jekyll-theme
+
+# Site Settings
+title: Steven A Correa
+description: "The personal site of Steven Correa"
+keywords: "Steven Correa, Steven A Correa, SRE, DevOps, Northern California"
+google-tracking-id:
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/timeline/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]

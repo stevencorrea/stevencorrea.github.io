@@ -1,0 +1,7 @@
+---
+layout: null
+title: 1995
+subtitle:
+image: "img/timeline/smol-bw.jpg"
+---
+I started my adventures in computing by playing games. My uncle taught me how to load and run execuatables from floppys. I was six!
