@@ -2,6 +2,6 @@
 layout: null
 title: Sep 2017 – Jun 2018
 subtitle:
-image: "img/timeline/wts.jpg"
+image: "img/timeline/wts.jpeg"
 ---
 As _the_ DevOps Engineer at Work Truck Solutions, I built and managed all infra, build and deployment pipelines and more in Azure. I was also an oncall rotation of one and that burned me out quick. I needed a break

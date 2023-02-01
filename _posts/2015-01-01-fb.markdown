@@ -4,4 +4,4 @@ title: Jun 2015 – Dec 2015
 subtitle:
 image: "img/timeline/fb.png"
 ---
-I briefly worked for a Facebook contractor as an InfraOps Admin. I worked on corporate facing infra and provided Tier3/4 support to FTEs. Facebook did not renew the contract and the office was downsized and shut down shortly after my departure.
+I briefly worked for a Facebook contractor as an InfraOps Admin. I worked on corporate facing infra and provided Tier3/4 support to FTEs. Facebook did not renew the contract and the office was downsized and shut down.
