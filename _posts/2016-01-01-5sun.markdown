@@ -2,6 +2,6 @@
 layout: null
 title: Dec 2015 – Sept 2017
 subtitle:
-image: "img/timeline/5sun.jpg"
+image: "img/timeline/5sun.png"
 ---
 As _the_ DevOps Specialist at Fifthsun, I was introduced to devops, cloud infrastructure and being oncall. I performed a migration of a Magento LAMP stack to AWS, utilizing RDS, EC2 and S3

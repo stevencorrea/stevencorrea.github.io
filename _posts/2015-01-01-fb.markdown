@@ -1,0 +1,7 @@
+---
+layout: null
+title: Dec 2015 – Sept 2017
+subtitle:
+image: "img/timeline/fb.png"
+---
+I worked briefly worked for Facebook contractor as an InfraOps Admin. Facebook did not renew the contract and the office was downsized and shut down shortly after my departure.

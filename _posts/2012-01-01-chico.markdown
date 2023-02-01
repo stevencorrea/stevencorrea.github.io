@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2012
+subtitle:
+image: "img/timeline/all-else.jpg"
+---
+I moved from Los Angeles back to Chico to be closer to family
