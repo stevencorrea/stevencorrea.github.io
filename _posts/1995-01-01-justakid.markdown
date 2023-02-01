@@ -4,4 +4,4 @@ title: 1995
 subtitle:
 image: "img/timeline/smol-color.jpg"
 ---
-I started my adventures in computing by playing games. My uncle taught me how to load and run executables on floppies from a command prompt. The old days where physical media existed and computers had moving components
+Like most kids my age, I started my adventures in computing by playing videogames. My uncle taught me how to load and run executables on floppies from a command prompt. The old days where physical media existed and computers had moving components

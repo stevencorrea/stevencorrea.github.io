@@ -1,7 +1,0 @@
----
-layout: null
-title: Sept 2017 – Jun 2018
-subtitle:
-image: "img/timeline/wts.jpg"
----
-As _the_ DevOps Engineer at Work Truck Solutions, I built and managed all infra, CI/CD Pipelines and a reverse proxy in Azure. I was also an oncall rotation of one and I burned out quick
