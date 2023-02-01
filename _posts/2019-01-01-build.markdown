@@ -4,4 +4,4 @@ title: Jan 2019 – Mar 2021
 subtitle:
 image: "img/timeline/build.jpg"
 ---
-As an SRE at Build.com, I helped build and maintain our production CentOS environment and built a Rancher POC with the Java Architect
+As an SRE at Build.com, I helped build and maintain our production CentOS environment and built a Rancher POC with the Java Architect. We ran a lean stack that didn't fall over on BF/CM 

@@ -4,4 +4,4 @@ title: Feb 2022 – Feb 2023
 subtitle:
 image: "img/timeline/rc.jpg"
 ---
-I was promoted to a role where I got to 'greenfield' a team of cross-functional engineers. We filled a gap between Trust and Engineering and built some cool stuff. I was laid off Feb 1 2023 along with 15% of the company.
+I was promoted to a role where I got to 'greenfield' a team of cross-functional engineers. We filled a gap between Trust and Engineering and built some cool stuff. I was laid off along with 15% of the company which is likely why you're reading this
