@@ -1,6 +1,6 @@
 # Timeline Jekyll Theme
 
-Timeline is multipurpose, single page Jekyll theme that includes a timeline section. 
+Hi there, I'm Steven and this is my website
 
 **Example sites**:
 
