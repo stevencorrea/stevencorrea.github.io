@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2008 – 2018
+subtitle:
+image: "img/timeline/all-else.jpg"
+---
+I held various roles in IT ranging from Genius at Apple to InfraOps at Facebook

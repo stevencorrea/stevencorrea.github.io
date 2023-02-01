@@ -1,0 +1,7 @@
+---
+layout: null
+title: 2007 - 2008
+subtitle:
+image: "img/timeline/rbcw-sm.jpg"
+---
+I opened my own computer repair store in my hometown shortly after graduating from high school. If it looks like I have no idea what I'm doing, it's because I don't

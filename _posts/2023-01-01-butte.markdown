@@ -1,7 +1,7 @@
 ---
 layout: null
-title: Aug 2022 - Present
+title: Aug 2022 – Present
 subtitle:
 image: "img/timeline/bc.jpg"
 ---
-I facilitate and teach up to two online sections a semester for the Computer Science department at Butte College. This is my 'night and weekend' activity!
+I facilitate and teach up to two online sections a semester for the Computer Science department at Butte College. This is my 'night and weekend' activity
