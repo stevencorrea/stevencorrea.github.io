@@ -4,4 +4,4 @@ title: Feb 2022 – Feb 2023
 subtitle:
 image: "img/timeline/rc.jpg"
 ---
-At Red Canary, I was promoted to a role where I got to 'greenfield' a team of cross-functional engineers. We filled a gap between Trust and Engineering and built some cool stuff. I was laid off along with 15% of the company which is likely why you're reading this :)
+At Red Canary, I was promoted to a role where I got to 'greenfield' a team of cross-functional engineers. We filled a gap between Trust and Engineering and implemented initiatives spearheded by the Directors of Corporate Security and Security Architecture, among others. We set out to be the team that would own cross-functional shared services and tooling like Terraform, networking infrastructure and authentication across the corporate and production environments.  I was laid off along with 15% of the company which is likely why you're reading this :)
